@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <p>Main page</p>
       <p>
         The version of this<strong> {version.name} </strong>app is{" "}
         <strong>{version.version}</strong>
