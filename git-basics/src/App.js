@@ -1,10 +1,13 @@
-import logo from "./logo.svg";
+import version from "../package.json";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <p>this the verion of this app</p>
+      <p>
+        The version of this<strong> {version.name} </strong>app is{" "}
+        <strong>{version.version}</strong>
+      </p>
     </div>
   );
 }
