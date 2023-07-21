@@ -11,6 +11,7 @@ function App() {
       </p>
       <p> added the login feature</p>
       <p>logout feature</p>
+      <div>bug is fixed here</div>
     </div>
   );
 }
