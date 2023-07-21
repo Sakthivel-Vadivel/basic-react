@@ -9,6 +9,9 @@ function App() {
         The version of this<strong> {version.name} </strong>app is{" "}
         <strong>{version.version}</strong>
       </p>
+      <p> added the login feature</p>
+      <p>logout feature</p>
+      <div>bug is fixed here</div>
     </div>
   );
 }
