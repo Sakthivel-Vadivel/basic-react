@@ -9,6 +9,7 @@ function App() {
         The version of this<strong> {version.name} </strong>app is{" "}
         <strong>{version.version}</strong>
       </p>
+      <p> added the login feature</p>
     </div>
   );
 }
