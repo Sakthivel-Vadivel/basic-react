@@ -10,6 +10,7 @@ function App() {
         <strong>{version.version}</strong>
       </p>
       <p> added the login feature</p>
+      <p>logout feature</p>
     </div>
   );
 }
